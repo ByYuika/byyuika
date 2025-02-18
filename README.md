@@ -17,8 +17,6 @@ Visualization: Tableau, Looker Studio
 ### 👋🏻 Connect with Me
 <a href="mailto:yuika8829@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
-<a href="https://x.com/ByYuika"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yuriikw/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://www.linkedin.com/in/yuriikw/"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"></a>
-
-
+<a href="https://x.com/ByYuika"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"></a>
