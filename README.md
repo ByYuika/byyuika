@@ -1,5 +1,5 @@
 ## Hi there!
-Hello, I'm Yuri. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+Hello, I'm Yuri, a dedicated Data Analyst with a strong background in data analysis, reporting, query optimization, database design, and data modeling. With a Bachelor's degree in Information Technology, I am eager to leverage my expertise in a dynamic environment where I can contribute meaningful insights and drive data-driven decisions.
 
 Querying data using SQL.  
 Generate reports and perform ad-hoc data analysis using SQL.  
