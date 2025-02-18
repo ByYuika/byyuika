@@ -7,7 +7,7 @@ Developing dashboards on Tableau and Looker Studio.
 Data analysis and reporting using Google Sheets and Excel.  
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase <a href="https://github.com/ByYuika/Portfolio">my projects</a>.
 
 ### 🛠️ Tools
 Language: SQL, Python  
