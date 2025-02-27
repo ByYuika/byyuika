@@ -3,7 +3,7 @@ Hello, I'm Yuri, a dedicated Data Analyst with a strong background in data analy
 
 Querying data using SQL.  
 Generate reports and perform ad-hoc data analysis using SQL.  
-Developing dashboards on Tableau and Looker Studio.  
+Developing dashboards on Tableau and Microsoft BI.  
 Data analysis and reporting using Google Sheets and Excel.  
 
 ### 📚 Projects
