@@ -14,7 +14,7 @@ Language: SQL, Python
 Database: MySQL  
 Visualization: Tableau, Microsoft BI 
 
-### 👋🏻 Connect with Me
+### 👋🏻 Say Hi
 <a href="mailto:yuika8829@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
 <a href="https://www.linkedin.com/in/yuriikw/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
