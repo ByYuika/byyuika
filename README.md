@@ -11,8 +11,8 @@ Welcome to my portfolio, where I showcase <a href="https://github.com/ByYuika/Po
 
 ### 🛠️ Tools
 Language: SQL, Python  
-Database: PostgreSQL, MySQL  
-Visualization: Tableau, Looker Studio  
+Database: MySQL  
+Visualization: Tableau, Microsoft BI 
 
 ### 👋🏻 Connect with Me
 <a href="mailto:yuika8829@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
