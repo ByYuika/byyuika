@@ -7,7 +7,7 @@ Developing dashboards on Tableau and Microsoft BI.
 Data analysis and reporting using Google Sheets and Excel.  
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase <a href="https://github.com/ByYuika/Portfolio">my projects</a>.
+Welcome to my portfolio, where I showcase <a href="https://yuriikw.notion.site/Hi-I-m-Yuri-Ikawa-1b899bad702080169282df4438172a01?pvs=74">my projects</a>.
 
 ### 🛠️ Tools
 Language: SQL, Python  
@@ -18,5 +18,3 @@ Visualization: Tableau, Microsoft BI
 <a href="mailto:yuika8829@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  
 <a href="https://www.linkedin.com/in/yuriikw/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="https://x.com/ByYuika"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"></a>
